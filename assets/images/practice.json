@@ -1,0 +1,33 @@
+{
+    "items" : 
+    [
+        {
+      "imageUrl":   
+      "https://www.politico.com/dims4/default/d7cb5ee/2147483647/strip/true/crop/5850x3900+0+0/resize/960x640!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F51%2F56%2Fb9ca4851409299bf2d9e20d79f24%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1484904196",
+      "title": "Top Dem super PAC starts Biden ad blitz, pledges 75 million campaign effort",
+      "description": "Priorities USA wasted little time jumping into the fray.",
+      "textList": "A top Democratic super PAC will launch a six-figure digital advertising blitz in six battleground states on Wednesday, a day after President Joe Biden kicked off his 2024 reelection campaign. Priorities USA, according to plans first shared with POLITICO, will also announce its overall investment target of 75 million for the 2024 presidential cycle — 5 million more than its 2020 target. The group will use the money to reach voters in key battleground states including Arizona, Georgia, Michigan, Nevada, Pennsylvania and Wisconsin."
+    },
+    {
+      "imageUrl":   
+      "https://media.cnn.com/api/v1/images/stellar/prod/230425175513-yosemite-snowpack-2023.jpg?c=16x9&q=h_720,w_1280,c_fill",
+      "title": "Most of Yosemite National Park to close Friday over flooding concerns",
+      "description": "Snowfall rests on trees in Yosemite Valley on January 19, 2023, in Yosemite National Park. The park has gotten a lot more snow to add to its snowpack since then -- as has much of the high elevation in many parts of the state.",
+      "textList": "The ramifications of California’s extreme winter and early spring weather continue. Most of Yosemite National Park will be closed to the public starting Friday night as flood concerns awash the region, the park announced Tuesday. Yosemite is expected to remain closed until Wednesday, May 3, “but could last longer,” the National Park Service said in the closure notice."
+    },
+    {
+      "imageUrl":   
+      "https://media.cnn.com/api/v1/images/stellar/prod/230425204136-mississippi-jimenez-dnt.jpg?c=16x9&q=w_850,c_fill",
+      "title": "Democratic elected officials in Jackson, Mississippi, call 2 controversial new laws a slap in the face of our city",
+      "description": "Crime-fighting laws pushed by majority GOP, White lawmakers single out Black-majority city, NAACP alleg",
+      "textList": "A pair of new laws in Mississippi is leaving Jackson divided, with some hoping they will save a capital city wracked by a rise in homicides while others see an echo of a racist past. As part of the laws, the state of Mississippi will expand its law enforcement reach over the entire city of Jackson and implement major changes to its judicial system. Democratic elected officials in Jackson call the laws a “slap in the face of our city and a regression toward the state’s painful Civil Rights era past. On the other hand, those that pushed for the laws say it is a necessary public safety move for a city that has seen a sharp rise in homicides."
+    },
+    {
+      "imageUrl":   
+      "https://media.cnn.com/api/v1/images/stellar/prod/230125102819-jacinda-ardern-012523.jpg?c=16x9&q=h_720,w_1280,c_fill",
+      "title": "Former New Zealand leader Jacinda Ardern is heading to Harvard",
+      "description": "https://media.cnn.com/api/v1/images/stellar/prod/230125102819-jacinda-ardern-012523.jpg?c=16x9&q=h_720,w_1280,c_fill",
+      "textList": "After stepping down as leader of New Zealand earlier this year, Jacinda Ardern has revealed that she is swapping the rough and tumble of politics for a stint of quiet reflection within academia overseas, heading to Harvard University this fall under two fellowships. She was appointed to dual fellowships at the Harvard Kennedy School, the university’s school of public policy and government, according to a news release by Harvard."
+    }
+    ]
+}
